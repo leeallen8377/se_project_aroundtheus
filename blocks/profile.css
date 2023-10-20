@@ -10,10 +10,12 @@
     "title button"
     "description description";
   grid-template-columns: minmax(auto, 373px) auto;
+  align-items: baseline;
 }
 
 .profile__edit-button {
   background: transparent url(../images/pencil-edit.svg) center no-repeat;
+  margin-left: 18px;
   height: 24px;
   width: 24px;
   grid-area: button;
@@ -33,7 +35,7 @@
 
 .profile__title {
   font-size: 42px;
-  line-height: 48px;
+  line-height: 39px;
   font-weight: 500;
   grid-area: title;
   margin: 0;
@@ -74,6 +76,6 @@
   }
   .profile__add-button {
     margin: 0;
-    width: 282px;
+    width: 100%;
   }
 }

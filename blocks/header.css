@@ -1,3 +1,7 @@
 .header {
   margin-top: 45px;
+  border-bottom: solid;
+  padding-bottom: 41px;
+  border-width: 0.5px;
+  border-color: #545454;
 }
