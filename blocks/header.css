@@ -5,3 +5,10 @@
   border-width: 0.5px;
   border-color: #545454;
 }
+
+@media screen and (max-width: 635px) {
+  .header__logo {
+    width: 126px;
+    height: 24px;
+  }
+}
