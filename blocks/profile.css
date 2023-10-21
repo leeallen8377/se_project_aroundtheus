@@ -60,7 +60,7 @@
   margin-bottom: 47.25px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 935px) {
   .profile {
     flex-direction: column;
   }
@@ -75,7 +75,67 @@
     text-align: center;
   }
   .profile__add-button {
-    margin: 0;
+    margin: 36px 0 36px;
     width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .profile {
+    flex-direction: column;
+  }
+  .profile__info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+  }
+  .profile__description {
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+  }
+  .profile__add-button {
+    margin: 36px 0 36px;
+    width: 100%;
+  }
+  .profile__edit-button {
+    width: 18px;
+    height: 18px;
+  }
+  .profile__title {
+    font-size: 22px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .profile {
+    flex-direction: column;
+  }
+  .profile__info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+  }
+  .profile__description {
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+  }
+  .profile__add-button {
+    margin: 36px 0 36px;
+    width: 100%;
+  }
+  .profile__edit-button {
+    width: 18px;
+    height: 18px;
+  }
+  .profile__title {
+    font-size: 22px;
+  }
+  .page__section {
+    margin: 0 20px;
+    max-width: calc(100% - 40px);
   }
 }
