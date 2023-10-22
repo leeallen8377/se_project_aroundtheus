@@ -26,10 +26,10 @@ This project is Sprint 3 in the TripleTen Software Engineering Program. This pro
 
 **GitHub Pages**
 
-- [Link to the project on GitHub Pages]
+- [Link to the project on GitHub Pages](https://leeallen8377.github.io/se_project_aroundtheus)
 
-**Images**
+**Demo Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+- [link to demo image Breakpoint 1280](./images/demo/Breakpoint1280.png)
+- [link to demo image Breakpoint 775](./images/demo/Breakpoint775.png)
+- [link to demo image Breakpoint 320](./images/demo/Breakpoint320.png)
