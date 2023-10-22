@@ -10,7 +10,7 @@
 
 **Intro**
 
-This project is Sprint 3 in the TripleTen Software Engineering Program. This project is an introduction to Responsive design through the use of "Grid" functionality and "Flexbox". The implemantation of Responsive design is utilized to insure that all the elements are displayed correctly on popular screen sizes. Figma will be used to supply the webiste specifactions such as: Fonts, Margins, Padding, Images, Graphics, Breakpoints, and Pseudo classes.
+This project is Sprint 3 in the TripleTen Software Engineering Program. This project is an introduction to Responsive design through the use of "Grid" functionality. The implemantation of Responsive design is utilized to insure that all the elements are displayed correctly on popular screen sizes. Figma will be used to supply the webiste specifactions such as: Fonts, Margins, Padding, Images, Graphics, Breakpoints, and Pseudo classes.
 
 **Project Features**
 
