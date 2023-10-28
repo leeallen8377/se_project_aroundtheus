@@ -4,19 +4,19 @@
   margin: 67px auto 0 auto;
 }
 
+.footer__copyright {
+  color: #545454;
+  font-size: 18px;
+  line-height: 21.78px;
+  margin: 0;
+}
+
 @media screen and (max-width: 635px) {
   .footer {
     font-size: 14px;
     line-height: 16.94px;
     margin: 48px auto 0 auto;
   }
-}
-
-.footer__copyright {
-  color: #545454;
-  font-size: 18px;
-  line-height: 21.78px;
-  width: 318px;
 }
 
 @media screen and (max-width: 635px) {
@@ -28,6 +28,6 @@
 
 @media screen and (max-width: 320px) {
   .footer__copyright {
-    margin-left: 19px;
+    padding-left: 19px;
   }
 }
