@@ -68,7 +68,7 @@
 }
 
 .modal__button:hover {
-  opacity: 50%;
+  opacity: 80%;
 }
 
 .modal__close {
@@ -84,6 +84,10 @@
   background-repeat: no-repeat;
   cursor: pointer;
   padding: 0;
+}
+
+.modal__close:hover {
+  opacity: 60%;
 }
 
 @media screen and (max-width: 635px) {
