@@ -16,6 +16,7 @@ This project is Sprint 3 in the TripleTen Software Engineering Program. This pro
 
 - Semantic HTML5
 - CSS
+- JavaScript
 - Flexbox
 - Grid
 - Media Queries
