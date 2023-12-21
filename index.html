@@ -41,7 +41,9 @@
         <p class="footer__copyright">&copy;2023 Lee Allen Bell</p>
       </footer>
     </div>
+
     <!-- Edit Modal-->
+
     <div class="modal" id="profile-edit-modal">
       <div class="modal__container">
         <button
@@ -100,8 +102,28 @@
       </div>
     </div>
 
+    <!--Image Modal-->
+
+    <div class="modal" id="preview-image-modal">
+      <div class="modal__container">
+        <img
+          src=""
+          alt=""
+          class="preview__card-image"
+          id="preview-card-image"
+        />
+        <p class="preview__image-caption"></p>
+        <button
+          class="modal__close"
+          id="preview-image-close-button"
+          type="button"
+        ></button>
+      </div>
+    </div>
+
     <template id="card-template">
       <li class="card">
+        <button class="card__remove-button" type="button"></button>
         <img src="" class="card__image" alt="" />
         <div class="card__description">
           <h2 class="card__title"></h2>

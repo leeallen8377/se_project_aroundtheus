@@ -40,6 +40,22 @@
   cursor: pointer;
 }
 
+.card__remove-button {
+  background: transparent url(../images/Trash.svg) center no-repeat;
+  width: 18px;
+  height: 19.3px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  align-self: flex-end;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.card__remove-button:hover {
+  opacity: 60%;
+}
+
 .card_like-button_active {
   background-image: url(../images/LikeButton:Active.svg);
 }
